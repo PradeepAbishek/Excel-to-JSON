@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "xls-to-json": "^0.5.4",
     "xlsx-to-json": "^0.3.0"
   }
